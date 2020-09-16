@@ -1,1 +1,7 @@
 thêm file vào đây
+giờ tạo pull request vào git của thầy
+chọn cái github có tên của m
+nó hiện able to merge là có thể ghép được mà không có lỗi.
+bấm create là xong. thầy sẽ nhìn thấy thông báo. còn bây giờ chỉ có file nháp thì thôi k tạp pull request
+ok
+nộp bài tập cứ vứt vào thư mục này. xong vàogithub desktop push lên, push xong thì tạo pull request. done
